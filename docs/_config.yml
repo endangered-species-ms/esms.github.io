@@ -1,2 +1,17 @@
-theme: jekyll-theme-leap-day
-title: ESMS
+remote_theme: ddc-java/ddc-day
+repository_links:
+  enabled: true
+page_navigator:
+  enabled: true
+titles_from_headings:
+  enabled: false
+
+# Modify the contents below for the specific project.
+
+title: "Endangered Species Management System"
+description: "A means to collect and manage data and assign teams members."  # Write the project description inside the quotes
+author:                                  # Don't do anything with this line!
+  name: "Todd Nordquist" 
+
+# Do not modify the following line!
+  copyright: true  
